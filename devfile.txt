@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Hello Branch dev add info in dev
-=======
 Hello Branch dev
 add new line in master
->>>>>>> acc0675 (add new line to devfile)
