@@ -4,4 +4,3 @@ Add new line
 New comment during indexing
 branch
 rebase change
-I CAN CHANGE YOUR REALITY!
